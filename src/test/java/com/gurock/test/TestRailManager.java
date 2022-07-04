@@ -17,8 +17,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class TestRailManager {
 
 	public static String TEST_RUN_ID                = "1";
-	public static String TESTRAIL_USERNAME          = "nitheshdemo@gmail.com";
-	public static String TESTRAIL_PASSWORD          = "Nithesh@1998";
+	public static String TESTRAIL_USERNAME          = "**********@gmail.com";
+	public static String TESTRAIL_PASSWORD          = "*********";
 	public static String RAILS_ENGINE_URL           = "https://nitheshgowda123.testrail.net/";
 	public static final int TEST_CASE_PASSED_STATUS = 1;
 	public static final int TEST_CASE_FAILED_STATUS = 5;
